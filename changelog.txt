@@ -1,3 +1,6 @@
 2021.10.02:
+* fixed: badges/www-ghisler-ch--board.svg: width fix
+
+2021.10.02:
 * new: changelog file
 * new: badges: `www.ghisler.ch` board badge
