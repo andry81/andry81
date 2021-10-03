@@ -1,1 +1,3 @@
 images/sourceforge-download-button.png : https://a.fsdn.com/con/app/sf-download-button
+
+badges/paypal-donate.svg: https://img.shields.io/badge/Donate-PayPal-blue.svg

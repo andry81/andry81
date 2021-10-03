@@ -1,3 +1,11 @@
+2021.10.03:
+* new: badges: `github-sponsor.svg` badge
+* new: badges: `paypal-donate.svg` badge
+* changed: links.txt: link added
+
+2021.10.03:
+* new: README.md: github stats badge colors change
+
 2021.10.02:
 * fixed: badges/www-ghisler-ch--board.svg: text offset fix
 
