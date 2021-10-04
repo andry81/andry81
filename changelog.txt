@@ -1,4 +1,7 @@
 2021.10.04:
+* changed: badges/doublecmd-h1n-ru--board.svg: badge colors change and minor fixup
+
+2021.10.04:
 * new: badges: `doublecmd-h1n-ru--board.svg` badge
 
 2021.10.03:
