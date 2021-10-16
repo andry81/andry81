@@ -1,3 +1,6 @@
+2021.10.16:
+* new: badges: `resume--github--io.svg` badge
+
 2021.10.04:
 * changed: badges/doublecmd-h1n-ru--board.svg: badge colors change and minor fixup
 
