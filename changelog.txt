@@ -1,5 +1,8 @@
 2021.10.16:
-* fixed: badges: `resume--github--io.svg` background missed
+* fixed: badges/resume--github--io.svg: incorrect width
+
+2021.10.16:
+* fixed: badges/resume--github--io.svg: missed background
 
 2021.10.16:
 * new: badges: `resume--github--io.svg` badge
