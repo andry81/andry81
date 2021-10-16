@@ -1,4 +1,7 @@
 2021.10.16:
+* new: README.md: resume badge link
+
+2021.10.16:
 * fixed: badges/resume--github--io.svg: incorrect width
 
 2021.10.16:

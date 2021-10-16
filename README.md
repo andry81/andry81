@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=andry81&count_private=true&show_icons=true&include_all_commits=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55)
+
+• <a href="https://resume.github.io/?andry81"><img src="https://github.com/andry81/andry81/raw/main/badges/resume--github--io.svg" valign="middle" alt="resume.github.io"></a> •
