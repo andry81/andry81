@@ -3,6 +3,7 @@
   <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
   <clipPath id="r"><rect width="106" height="20" rx="3" fill="#f5f5f5"/></clipPath>
   <g clip-path="url(#r)">
+    <rect width="106" height="20" fill="#f5f5f5"/>
     <rect x="2" width="4" height="20" fill="#666666"/>
     <rect x="100" width="4" height="20" fill="#92070f"/>
     <rect width="106" height="20" fill="url(#s)"/>
@@ -11,5 +12,4 @@
     <text aria-hidden="true" x="550" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="900">resume.github.io</text>
     <text x="550" y="140" transform="scale(.1)" fill="#333333" textLength="900">resume.github.io</text>
   </g>
-  11
 </svg>
