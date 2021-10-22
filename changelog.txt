@@ -1,3 +1,6 @@
+2021.10.22:
+* new: README.md: dark theme, top langs badge
+
 2021.10.16:
 * new: README.md: resume badge link
 

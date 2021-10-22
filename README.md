@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=andry81&count_private=true&show_icons=true&include_all_commits=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55)
-
 • <a href="https://resume.github.io/?andry81"><img src="https://github.com/andry81/andry81/raw/main/badges/resume--github--io.svg" valign="middle" alt="resume.github.io"></a> •
+
+<!-- ![My GitHub](https://github-readme-stats.vercel.app/api?username=andry81&count_private=true&show_icons=true&include_all_commits=true&bg_color=3e7bac&title_color=ffdd55&icon_color=ffdd55&text_color=ffdd55) -->
+<!--
+![My GitHub](https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andry81&layout=compact)
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true" valign="middle" alt="My GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true" valign="middle" alt="Top Langs">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andry81&layout=compact" valign="middle" alt="Wakatime stats"> -->
+</div>
