@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 • <a href="https://resume.github.io/?andry81"><img src="https://github.com/andry81/andry81/raw/main/badges/resume--github--io.svg" valign="middle" alt="resume.github.io"></a>
 • <a href="#"><img src="https://gpvc.arturio.dev/andry81" valign="middle" alt="Profile views" /></a>
 <!-- -->
-• <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="hits" /></a>
+• <a href="https://github.com/arturssmirnovs/github-profile-views-counter"><img src="https://gpvc.arturio.dev/andry81" valign="middle" alt="profile views by gpvc.arturio.dev" /></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=andry81" valign="middle" alt="profile views by komarev.com" /></a>
+  <a href="https://github.com/gjbae1212/hit-counter"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="profile views by hits.seeyoufarm.com" /></a>
 <!-- -- >
 • <a href="https://wakatime.com/@77c61a49-38df-412b-aa80-3ab075bfe7e1"><img src="https://wakatime.com/badge/user/77c61a49-38df-412b-aa80-3ab075bfe7e1.svg" valign="middle" alt="total code activity" /></a>
 <!-- -->

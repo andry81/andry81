@@ -1,3 +1,7 @@
+2021.10.29:
+* new: README.md: another profile views counter badge
+* changed: README.md: added back links to all hits/views counter badges
+
 2021.10.25:
 * new: README.md: streak stats
 
