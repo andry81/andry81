@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 • <a href="https://resume.github.io/?andry81"><img src="https://github.com/andry81/andry81/raw/main/badges/resume--github--io.svg" valign="middle" alt="resume.github.io"></a>
-• <a href="#"><img src="https://gpvc.arturio.dev/andry81" valign="middle" alt="Profile views" /></a>
 <!-- -->
 • <a href="https://github.com/arturssmirnovs/github-profile-views-counter"><img src="https://gpvc.arturio.dev/andry81" valign="middle" alt="profile views by gpvc.arturio.dev" /></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=andry81" valign="middle" alt="profile views by komarev.com" /></a>
