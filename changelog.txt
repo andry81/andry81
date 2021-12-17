@@ -1,4 +1,7 @@
 2021.12.17:
+* new: README.md: clones/views badges
+
+2021.12.17:
 * new: .github/workflows: profile repository views/clones accumulator actions
 
 2021.12.05:
