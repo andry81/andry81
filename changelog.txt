@@ -1,3 +1,6 @@
+2021.12.17:
+* new: .github/workflows: profile repository views/clones accumulator actions
+
 2021.12.05:
 * changed: .github/workflows: moved github workflow from all respective repositories into single repository (GitHub workflow in subfolders is not supported yet: https://github.community/t/feature-request-allow-workflow-configuration-in-sub-folders/16776)
 
