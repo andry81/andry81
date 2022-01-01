@@ -24,6 +24,9 @@ jobs:
             -H 'Cache-Control: no-cache'
 
           deps_repo_owner:          andry81
+          deps_repo_branch:         master
+          deps_repo_read_token:     ${{ secrets.READ_STATS_TOKEN }}
+
           stat_entity_path:         plugring/tacklebar
 
           output_repo_owner:        andry81

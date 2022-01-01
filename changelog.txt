@@ -1,3 +1,7 @@
+2022.01.01:
+* new: .github/workflows/*.yml: added `deps_repo_branch` parameter to use specific repository branch as dependency
+* new: .github/workflows/*.yml: added `deps_repo_read_token` parameter to use specific read token for repository as dependency
+
 2021.12.24:
 * new: .github/workflows: workflow scripts for `gh-action--*` and `gh-workflow` repositories
 
