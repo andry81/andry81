@@ -1,3 +1,6 @@
+2022.01.05:
+* new: .github/releases/*.md.in: releases common readme templates
+
 2022.01.01:
 * new: .github/workflows/*.yml: added `deps_repo_branch` parameter to use specific repository branch as dependency
 * new: .github/workflows/*.yml: added `deps_repo_read_token` parameter to use specific read token for repository as dependency
