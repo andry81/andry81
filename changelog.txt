@@ -1,3 +1,6 @@
+2022.01.16:
+* new: README.md: `metrics.lecoq.io` metrics
+
 2022.01.05:
 * new: .github/releases/*.md.in: releases common readme templates
 
