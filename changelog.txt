@@ -1,4 +1,8 @@
 2022.01.16:
+* new: README.md: `metrics.lecoq.io` badge link
+* changed: README.md: back links to related github projects
+
+2022.01.16:
 * new: README.md: `metrics.lecoq.io` metrics
 
 2022.01.05:
