@@ -1,3 +1,6 @@
+2022.02.05:
+* changed: .github/workflows/*.yml: moved stats repositories into `andry81-stats` account
+
 2022.01.16:
 * new: README.md: `metrics.lecoq.io` badge link
 * changed: README.md: back links to related github projects

@@ -29,7 +29,7 @@ jobs:
           curl_flags: >-
             -H 'Cache-Control: no-cache'
 
-          output_repo_owner:        andry81
+          output_repo_owner:        andry81-stats
           output_repo:              gh-action--accum-gh-stats--gh-stats
           output_repo_branch:       master
           output_repo_dir:          traffic/clones
