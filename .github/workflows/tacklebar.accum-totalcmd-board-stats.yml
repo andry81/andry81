@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: andry81/gh-action--accum-board-stats@master
+      - uses: andry81-devops/gh-action--accum-board-stats@master
         with:
           board_name:               totalcmd
           # CAUTION: Beware of double quotes strip in case of usage yaml `>-` operator or even a single-quotted string!
@@ -25,7 +25,7 @@ jobs:
           curl_flags: >-
             -H 'Cache-Control: no-cache'
 
-          deps_repo_owner:          andry81
+          deps_repo_owner:          andry81-devops
           deps_repo_branch:         master
           deps_repo_read_token:     ${{ secrets.READ_STATS_TOKEN }}
 

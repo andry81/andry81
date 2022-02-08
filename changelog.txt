@@ -1,3 +1,6 @@
+2022.02.08:
+* changed: .github/workflows: workflow repositories move update
+
 2022.02.06:
 * new: .github/workflows: added `andry81-builds/amule` project stats accumulation
 
