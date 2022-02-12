@@ -1,3 +1,6 @@
+2022.02.12:
+* new: README.md: a browser extensions list
+
 2022.02.08:
 * changed: .github/workflows: workflow repositories move update
 
