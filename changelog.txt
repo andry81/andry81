@@ -1,3 +1,6 @@
+2022.02.18:
+* new: .github/workflows/gh-action--accum-gh-rate-limits.*.yml: added `gh-action--accum-gh-rate-limits` repository clones/views statistic accumulation
+
 2022.02.12:
 * new: README.md: a browser extensions list
 
