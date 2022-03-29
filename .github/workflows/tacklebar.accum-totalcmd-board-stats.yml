@@ -40,3 +40,4 @@ jobs:
 
           env: >-
             ENABLE_GENERATE_CHANGELOG_FILE=1
+            ENABLE_PRINT_CURL_RESPONSE_ON_ERROR=1
