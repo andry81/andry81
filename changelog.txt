@@ -1,3 +1,6 @@
+2022.03.29:
+* changed: .github/workflows: tacklebar.accum-*-board-stats.yml, accum-totalcmd-download-stats.yml: added curl verbose flag `-v`
+
 2022.03.23:
 * new: .github/workflows/*.yml: `changelog.txt` generation is enabled
 
