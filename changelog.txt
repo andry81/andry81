@@ -1,4 +1,7 @@
 2022.03.30:
+* changed: .github/workflows: tacklebar.accum-*-board-stats.yml, accum-totalcmd-download-stats.yml: commit message date with time is enabled
+
+2022.03.30:
 * changed: .github/workflows: tacklebar.accum-*-board-stats.yml, accum-totalcmd-download-stats.yml: print curl response on error is enabled
 
 2022.03.29:
