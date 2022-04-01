@@ -1,3 +1,7 @@
+2022.04.02:
+* new: .github: `FUNDING.yml` with sponsor links
+* new: README.md: sponsor badges
+
 2022.03.30:
 * changed: .github/workflows: tacklebar.accum-*-board-stats.yml, accum-totalcmd-download-stats.yml: commit message date with time is enabled
 
