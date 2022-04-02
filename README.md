@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81/andry81/raw/master/badges/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
-• <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+andry81&cmd=_donations&business=andry%40inbox.ru"><img src="https://github.com/andry81/andry81/raw/master/badges/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81/andry81/raw/master/badges/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
 ---

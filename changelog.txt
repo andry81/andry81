@@ -1,4 +1,7 @@
 2022.04.02:
+* changed: .github/FUNDING.yml, README.md: single donate link with badge
+
+2022.04.02:
 * new: badges: `donate.svg`, `yoomoney-donate.svg` badges
 
 2022.04.02:
