@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="20" role="img" aria-label="Donate: YooMoney">
+  <title>Donate: YooMoney</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="136" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="65" height="20" fill="#fff"/>
+    <rect x="65" width="71" height="20" fill="#8B3FFD"/>
+    <rect width="136" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="left" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <g transform="translate(2,3.5)">
+      <path style="transform: scale(0.3)" d="M17.2257 7.80786V36.2799H10.1269L1 7.80786H17.2257Z M37.2184 2C26.0633 2 17.2261 10.7824 17.2261 21.548C17.2261 32.3135 26.2081 41.096 37.2184 41.096C48.2287 41.096 57.2107 32.3135 57.2107 21.548C57.3556 10.7824 48.2287 2 37.2184 2ZM37.2184 28.7722C33.162 28.7722 29.6851 25.5142 29.6851 21.548C29.6851 17.5817 33.0171 14.3237 37.2184 14.3237C41.4197 14.3237 44.7518 17.5817 44.7518 21.548C44.6069 25.5142 41.4197 28.7722 37.2184 28.7722Z" fill="#8B3FFD"></path>
+    </g>
+    <text aria-hidden="true" x="210" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="390">Donate</text>
+    <text x="210" y="140" transform="scale(.1)" fill="#000" textLength="390">Donate</text>
+    <g font-family="Arial,Helvetica,sans-serif" font-weight="bold">
+      <text aria-hidden="true" x="700" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="600">YooMoney</text>
+      <text x="700" y="140" transform="scale(.1)" fill="#fff" textLength="600">YooMoney</text>
+    </g>
+  </g>
+</svg>

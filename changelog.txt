@@ -1,4 +1,7 @@
 2022.04.02:
+* new: badges: `donate.svg`, `yoomoney-donate.svg` badges
+
+2022.04.02:
 * new: .github: `FUNDING.yml` with sponsor links
 * new: README.md: sponsor badges
 
