@@ -7,7 +7,7 @@
     <rect width="110" height="20" fill="url(#s)"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-    <text aria-hidden="true" x="550" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1000">📊 metrics.lecoq.io</text>
+    <text aria-hidden="true" x="550" y="145" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1000">📊 metrics.lecoq.io</text>
     <text x="550" y="140" transform="scale(.1)" fill="#333333" textLength="1000">📊 metrics.lecoq.io</text>
   </g>
 </svg>
