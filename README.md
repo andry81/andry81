@@ -57,16 +57,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andry81&theme=onedark&hide_border=true" valign="middle" height="150em" alt="Streak stats" /></a><br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andry81&theme=onedark&hide_border=true" width="480px" valign="middle" alt="Streak stats" /></a><br />
   <a href="https://github.com/lowlighter/metrics"><img src="https://metrics.lecoq.io/andry81" valign="middle" alt="My Metrics" /></a><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" valign="middle" alt="My GitHub" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" valign="middle" alt="Top Langs" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" width="480px" valign="middle" alt="My GitHub" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" width="480px" valign="middle" alt="Top Langs" /></a>
   <!-- -- >
   <a href="https://wakatime.com/@77c61a49-38df-412b-aa80-3ab075bfe7e1""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=77c61a49-38df-412b-aa80-3ab075bfe7e1&layout=compact&theme=prussian&langs_count=10&count_private=true&include_all_commits=true" valign="middle" alt="Wakatime stats" /></a>
   <!-- -->
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=andry81&theme=one-dark&hide_border=true" valign="middle" alt="Contribution graph" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=andry81&theme=one-dark&hide_border=true" width="600px" valign="middle" alt="Contribution graph" /></a>
 </p>
 
 ---

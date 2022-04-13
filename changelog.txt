@@ -1,3 +1,6 @@
+2022.04.13:
+* changed: README.md: layout update
+
 2022.04.11:
 * changed: badges: badge text shadow fixup
 
