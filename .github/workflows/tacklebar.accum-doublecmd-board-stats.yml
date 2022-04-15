@@ -1,7 +1,7 @@
-# based on: https://github.com/andry81/github-accum-stats
+# Tutorial to use with: https://github.com/andry81-devops/github-accum-stats
 #
 
-name: "tacklebar: doublecmd board stats updating every 4 hours"
+name: "tacklebar: doublecmd board stats update every 4 hours"
 
 on:
   schedule:

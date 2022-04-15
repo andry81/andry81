@@ -1,3 +1,6 @@
+# Tutorial to use with: https://github.com/andry81-devops/github-accum-stats
+#
+
 name: "amule-builds: GitHub views counter for 14 days at every 8 hours and views accumulator"
 
 on:
@@ -34,3 +37,4 @@ jobs:
 
           env: >-
             ENABLE_GENERATE_CHANGELOG_FILE=1
+            ENABLE_COMMIT_MESSAGE_DATE_WITH_TIME=1

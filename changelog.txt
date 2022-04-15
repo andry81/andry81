@@ -1,3 +1,7 @@
+2022.04.15:
+* changed: .github/workflows/*.accum-gh-*-stats.yml: added `ENABLE_COMMIT_MESSAGE_DATE_WITH_TIME=1` environment variable
+* changed: .github/workflows/*.yml: minor changes
+
 2022.04.13:
 * changed: README.md: layout update
 
