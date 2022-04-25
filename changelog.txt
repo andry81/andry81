@@ -1,3 +1,7 @@
+2022.04.25:
+* fixed: README.md: github-readme-activity-graph sticker alignment fix
+* refactor: README.md: stickers layout refactor
+
 2022.04.16:
 * changed: .github/workflows/gh-*.yml: workflow scripts moved to `andry81-devops/andry81-devops` repo
 
