@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andry81&theme=onedark&hide_border=true" height="135px" valign="middle" alt="Streak stats" /></a><br />
-  <a href="https://github.com/lowlighter/metrics"><img src="https://metrics.lecoq.io/andry81" valign="middle" alt="My Metrics" /></a><br />
+  <a href="https://github.com/lowlighter/metrics"><img src="https://metrics.lecoq.io/andry81?template=classic&languages=1&lines=1&languages.limit=12&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=true&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow" valign="middle" alt="My Metrics" /></a><br />
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" height="135px" valign="middle" alt="My GitHub" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" height="135px" valign="middle" alt="Top Langs" /></a>
   <!-- -- >

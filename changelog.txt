@@ -1,3 +1,6 @@
+2022.04.30:
+* changed: README.md: `metrics.lecoq.io` link update
+
 2022.04.25:
 * fixed: README.md: github-readme-activity-graph sticker alignment fix
 * refactor: README.md: stickers layout refactor
