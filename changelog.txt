@@ -1,4 +1,7 @@
 2022.04.30:
+* new: .github/workflows: `andry81.accum-content.yml` workflow script to accumulate content for `andry81` repositories
+
+2022.04.30:
 * changed: README.md: `metrics.lecoq.io` link update
 
 2022.04.25:
