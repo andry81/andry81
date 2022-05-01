@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://metrics.lecoq.io/about/andry81">
-    <img src="https://github.com/andry81/andry81/raw/master/badges/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"></a>
 • <a href="https://resume.github.io/?andry81">
-    <img src="https://github.com/andry81/andry81/raw/master/badges/resume--github--io.svg" valign="middle" alt="resume.github.io"></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"></a>
 </p>
 
 <p align="center">
@@ -33,34 +33,38 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/andry81/andry81--gh-stats/commits/master/traffic/views">
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Github%20views|all&query=count&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github" valign="middle" alt="GitHub views|any|total" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/views/latest.json?raw=True" valign="middle" alt="GitHub views|any|14d" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/views/all.svg" valign="middle" alt="GitHub views|any|total" />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/views/all-14d.svg" valign="middle" alt="GitHub views|any|14d" /></a>
 • <a href="https://github.com/andry81/andry81--gh-stats/commits/master/traffic/views">
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Github%20views|unq&query=uniques&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github" valign="middle" alt="GitHub views|unique per day|total" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/views/latest.json?raw=True" valign="middle" alt="GitHub views|unique per day|14d" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/views/unq.svg" valign="middle" alt="GitHub views|unique per day|total" />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/views/unq-14d.svg" valign="middle" alt="GitHub views|unique per day|14d" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/andry81/andry81--gh-stats/commits/master/traffic/clones">
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Github%20clones|all&query=count&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github" valign="middle" alt="GitHub clones|any|total" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=count&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/clones/latest.json?raw=True" valign="middle" alt="GitHub clones|any|14d" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/clones/all.svg" valign="middle" alt="GitHub clones|any|total" />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/clones/all-14d.svg" valign="middle" alt="GitHub clones|any|14d" /></a>
 • <a href="https://github.com/andry81/andry81--gh-stats/commits/master/traffic/clones">
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Github%20clones|unq&query=uniques&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/clones/latest-accum.json?raw=True&logo=github" valign="middle" alt="GitHub clones|unique per day|total" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=14d&query=uniques&url=https://github.com/andry81/andry81--gh-stats/raw/master/traffic/clones/latest.json?raw=True" valign="middle" alt="GitHub clones|unique per day|14d" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/clones/unq.svg" valign="middle" alt="GitHub clones|unique per day|total" />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/traffic/clones/unq-14d.svg" valign="middle" alt="GitHub clones|unique per day|14d" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81/andry81/raw/master/badges/donate.svg" valign="middle" alt="donate" /></a>
+  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
 </p>
 
 ---
 
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andry81&theme=onedark&hide_border=true" height="135px" valign="middle" alt="Streak stats" /></a><br />
-  <a href="https://github.com/lowlighter/metrics"><img src="https://metrics.lecoq.io/andry81?template=classic&languages=1&lines=1&languages.limit=12&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=true&languages.analysis.timeout=30&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow" valign="middle" alt="My Metrics" /></a><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=andry81&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" height="135px" valign="middle" alt="My GitHub" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andry81&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true&hide_border=true&line_height=21&hide_title=true" height="135px" valign="middle" alt="Top Langs" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/readme-stats/streak-stats-herokuapp.svg" height="135px" valign="middle" alt="Streak stats" /></a><br />
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/readme-stats/metrics-lecoq.svg" valign="middle" alt="My Metrics" /></a><br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/readme-stats/readme-stats-vercel.svg" height="135px" valign="middle" alt="My GitHub" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/readme-stats/readme-stats-vercel--top-langs.svg" height="135px" valign="middle" alt="Top Langs" /></a>
   <!-- -- >
   <a href="https://wakatime.com/@77c61a49-38df-412b-aa80-3ab075bfe7e1""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=77c61a49-38df-412b-aa80-3ab075bfe7e1&layout=compact&theme=prussian&langs_count=10&count_private=true&include_all_commits=true" valign="middle" alt="Wakatime stats" /></a>
   <!-- -->
@@ -68,7 +72,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=andry81&theme=one-dark&hide_border=true" width="600px" valign="middle" alt="Contribution graph" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/badges/readme-stats/activity-graph-herokuapp.svg" width="600px" valign="middle" alt="Contribution graph" /></a>
 </p>
 
 ---
