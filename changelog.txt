@@ -1,3 +1,6 @@
+2022.05.04
+* new: .github/workflows/*.accum-content.yml: added `store_entity_path` parameter to use in the `COMMIT_MESSAGE_PREFIX` variable
+
 2022.05.03:
 * new: .github/workflows: `contools.accum-content.yml` workflow script to accumulate content for `contools` repository
 
