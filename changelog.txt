@@ -1,3 +1,6 @@
+2022.05.03:
+* changed: .github/workflows/andry81.accum-content.yml: set to read `content-config.yml` and `content-cache.yml` from a subdirectory related to repository being cached
+
 2022.05.01:
 * changed: README.md: dynamic badge links switched on content-cache repository usage
 

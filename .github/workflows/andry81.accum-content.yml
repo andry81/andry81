@@ -31,10 +31,10 @@ jobs:
           store_repo_write_token:   ${{ secrets.READ_STATS_TOKEN }}
 
           # config repo
-          content_config_file:      content-config.yml
+          content_config_file:      repo/andry81/andry81/content-config.yml
 
           # store repo
-          content_index_file:       content-index.yml
+          content_index_file:       repo/andry81/andry81/content-index.yml
 
           content_index_dir:        repo/andry81/andry81
 
