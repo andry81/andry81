@@ -1,3 +1,7 @@
+2022.05.05
+* changed: .github/workflows/*.accum-content.yml: enable curl verbose mode for accum-content workflows
+* changed: .github/workflows/*.accum-content.yml: enable continue on empty changes (CONTINUE_ON_EMPTY_CHANGES=1)
+
 2022.05.04
 * new: .github/workflows/*.accum-content.yml: added `store_entity_path` parameter to use in the `COMMIT_MESSAGE_PREFIX` variable
 
