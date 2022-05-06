@@ -1,3 +1,6 @@
+2022.05.06:
+* changed: .github/workflows/*.accum-content.yml: enable error on empty changes without errors (ERROR_ON_EMPTY_CHANGES_WITHOUT_ERRORS=1)
+
 2022.05.05
 * changed: .github/workflows/*.accum-content.yml: enable curl verbose mode for accum-content workflows
 * changed: .github/workflows/*.accum-content.yml: enable continue on empty changes (CONTINUE_ON_EMPTY_CHANGES=1)
