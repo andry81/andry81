@@ -1,3 +1,6 @@
+2022.05.07:
+* new: .github/workflows: `*.accum-content.yml` workflow scripts to accumulate content for `pyxvcs`, `svncmd`, `tacklebar`, `tacklebar--external_tools`, `tacklelib` repositories
+
 2022.05.06:
 * new: .github/workflows: `bittools.accum-content.yml` workflow script to accumulate content for `bittools` repository
 

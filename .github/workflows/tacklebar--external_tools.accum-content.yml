@@ -1,0 +1,53 @@
+# Tutorial to use with: https://github.com/andry81-devops/accum-content
+#
+
+name: "tacklebar--external_tools: content update at least every 1 hour"
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  accum-content-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: andry81-devops/gh-action--accum-content@master
+        with:
+          deps_repo_owner:          andry81-devops
+          deps_repo_branch:         master
+          deps_repo_read_token:     ${{ github.token }}
+
+          config_repo_owner:        andry81-cache
+          config_repo:              gh-content-cache-config
+          config_repo_branch:       master
+          config_repo_read_token:   ${{ secrets.READ_STATS_TOKEN }}
+
+          store_repo_owner:         andry81-cache
+          store_repo:               andry81-3dparty--gh-content-cache
+          store_repo_branch:        master
+          store_repo_write_token:   ${{ secrets.READ_STATS_TOKEN }}
+
+          store_entity_path:        tacklebar--external_tools
+
+          # config repo
+          content_config_file:      repo/andry81-3dparty/tacklebar--external_tools/content-config.yml
+
+          # store repo
+          content_index_file:       repo/andry81-3dparty/tacklebar--external_tools/content-index.yml
+
+          content_index_dir:        repo/andry81-3dparty/tacklebar--external_tools
+
+          curl_flags: >-
+            -H 'Cache-Control: no-cache'
+            -v
+
+          env: >-
+            ENABLE_GENERATE_CHANGELOG_FILE=1
+            ENABLE_COMMIT_MESSAGE_DATE_WITH_TIME=1
+            CHANGELOG_FILE=repo/andry81-3dparty/tacklebar--external_tools/content-changelog.txt
+            ENABLE_YAML_DIFF_PRINT_AFTER_EDIT=1
+            CONTINUE_ON_EMPTY_CHANGES=1
+            ERROR_ON_EMPTY_CHANGES_WITHOUT_ERRORS=1
