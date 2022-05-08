@@ -1,3 +1,7 @@
+2022.05.08:
+* changed: removed all badges and images because moved into `andry81--gh-content-cache` repository
+* changed: .github/workflows/*.accum-content.yml: increase cron timeout up to 3 hours to reduce overall file skips
+
 2022.05.07:
 * new: .github/workflows: `*.accum-content.yml` workflow scripts to accumulate content for `pyxvcs`, `svncmd`, `tacklebar`, `tacklebar--external_tools`, `tacklelib` repositories
 
