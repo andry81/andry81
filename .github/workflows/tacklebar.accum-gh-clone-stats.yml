@@ -22,9 +22,8 @@ jobs:
 
           stat_repo_owner:          andry81
           stat_repo:                tacklebar
-          stat_entity_path:         traffic/clones
+          stat_entity:              clones
           stat_repo_read_token:     ${{ secrets.READ_STATS_TOKEN }}
-          stats_list_key:           clones
 
           curl_flags: >-
             -H 'Cache-Control: no-cache'

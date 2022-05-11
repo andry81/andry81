@@ -30,7 +30,7 @@ jobs:
           store_repo_branch:        master
           store_repo_write_token:   ${{ secrets.READ_STATS_TOKEN }}
 
-          store_entity_path:        tacklelib
+          commit_msg_entity:        tacklelib
 
           # config repo
           content_config_file:      repo/andry81/tacklelib/content-config.yml
