@@ -8,6 +8,11 @@ on:
     - cron: "0 */3 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      no_skip_unexpired_entries:
+        description: 'Do not skip unexpired entries'
+        required: true
+        default: 'false'
 
 jobs:
   accum-content-cache:
@@ -30,7 +35,7 @@ jobs:
           store_repo_branch:        master
           store_repo_write_token:   ${{ secrets.READ_STATS_TOKEN }}
 
-          store_entity_path:        tacklebar--external_tools
+          commit_msg_entity:        tacklebar--external_tools
 
           # config repo
           content_config_file:      repo/andry81-3dparty/tacklebar--external_tools/content-config.yml

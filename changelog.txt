@@ -1,3 +1,8 @@
+2022.05.12:
+* fixed: .github/workflows: execution fixup
+* new: .github/workflows/*.accum-content.yml: added `no_skip_unexpired_entries` workflow dispatch input parameter
+* changed: .github/releases: templates update
+
 2022.05.11:
 * changed: moved badges with detailed statistic into `stickers` directory
 
