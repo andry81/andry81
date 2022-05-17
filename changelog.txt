@@ -1,3 +1,6 @@
+2022.05.17:
+* changed: .github/releases: templates update
+
 2022.05.12:
 * fixed: .github/workflows: execution fixup
 * new: .github/workflows/*.accum-content.yml: added `no_skip_unexpired_entries` workflow dispatch input parameter
