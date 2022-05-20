@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ---
 
-:information_source:
+> **Note**
 <details>
   <summary>List of a browser extensions I've found useful in conjunction with the GitHub:</summary>
   <list>
