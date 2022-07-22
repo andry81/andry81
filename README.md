@@ -56,15 +56,16 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/streak-stats-herokuapp.svg" height="135px" valign="middle" alt="Streak stats" /></a><br />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/streak-stats-herokuapp.svg" height="135px" valign="middle" alt="Streak stats (DenverCoder1)" /></a><br />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/profile-summary-card-vercel.svg" height="135px" valign="middle" alt="GitHub summary (vn7n24fzkq)" /></a><br />
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/metrics-lecoq.svg" valign="middle" alt="My Metrics" /></a><br />
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/metrics-lecoq.svg" valign="middle" alt="GitHub Metrics (lowlighter)" /></a><br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/readme-stats-vercel.svg" height="135px" valign="middle" alt="My GitHub" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/readme-stats-vercel.svg" height="135px" valign="middle" alt="GitHub metrics (anuraghazra)" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/readme-stats-vercel--top-langs.svg" height="135px" valign="middle" alt="Top Langs" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/readme-stats-vercel--top-langs.svg" height="135px" valign="middle" alt="Top langs (anuraghazra)" /></a>
   <!-- -- >
   <a href="https://wakatime.com/@77c61a49-38df-412b-aa80-3ab075bfe7e1""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=77c61a49-38df-412b-aa80-3ab075bfe7e1&layout=compact&theme=prussian&langs_count=10&count_private=true&include_all_commits=true" valign="middle" alt="Wakatime stats" /></a>
   <!-- -->
@@ -89,6 +90,11 @@ Here are some ideas to get you started:
     <li>Notifier for GitHub: https://addons.mozilla.org/firefox/addon/notifier-for-github | https://github.com/sindresorhus/notifier-for-github</li>
     <li>Github Repository Size: https://addons.mozilla.org/firefox/addon/github-repo-size | https://github.com/Shywim/github-repo-size</li>
     <li>GitHub Latest Release: https://addons.mozilla.org/firefox/addon/github-saved-filters | https://github.com/dword-design/github-latest-release</li>
-    <li>GitHub Downloads: https://addons.mozilla.org/firefox/addon/github-downloads | https://github.com/samuelmeuli/github-downloads</li>
   </list>
+  <details>
+    <summary>Obsolete extensions:</summary>
+    <list>
+      <li>GitHub Downloads: https://addons.mozilla.org/firefox/addon/github-downloads | https://github.com/samuelmeuli/github-downloads</li>
+    </list>
+  </details>
 </details>
