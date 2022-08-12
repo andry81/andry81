@@ -1,4 +1,7 @@
 2022.08.12:
+* new: .github/workflows/index.*.yml: added `index` repository clones/views statistic accumulation
+
+2022.08.12:
 * changed: README.md: readme update
 
 2022.08.09:
