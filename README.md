@@ -79,22 +79,4 @@ Here are some ideas to get you started:
 
 ---
 
-> **Note**
-<details>
-  <summary>List of a browser extensions I've found useful in conjunction with the GitHub:</summary>
-  <list>
-    <li>Refined GitHub: https://addons.mozilla.org/firefox/addon/refined-github- | https://github.com/refined-github/refined-github</li>
-    <li>Octotree - GitHub code tree: https://addons.mozilla.org/firefox/addon/octotree | https://github.com/ovity/octotree</li>
-    <li>GitHub Repository List Badges: https://addons.mozilla.org/firefox/addon/github-repository-list-badges/ | https://github.com/dword-design/github-repository-list-badges</li>
-    <li>CodeFlower: https://addons.mozilla.org/firefox/addon/codeflower/ | https://github.com/jmensch1/codeflower</li>
-    <li>Notifier for GitHub: https://addons.mozilla.org/firefox/addon/notifier-for-github | https://github.com/sindresorhus/notifier-for-github</li>
-    <li>Github Repository Size: https://addons.mozilla.org/firefox/addon/github-repo-size | https://github.com/Shywim/github-repo-size</li>
-    <li>GitHub Latest Release: https://addons.mozilla.org/firefox/addon/github-saved-filters | https://github.com/dword-design/github-latest-release</li>
-  </list>
-  <details>
-    <summary>Obsolete extensions:</summary>
-    <list>
-      <li>GitHub Downloads: https://addons.mozilla.org/firefox/addon/github-downloads | https://github.com/samuelmeuli/github-downloads</li>
-    </list>
-  </details>
-</details>
+> **Note** Directory index: https://github.com/andry81/index
