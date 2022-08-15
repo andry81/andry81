@@ -1,3 +1,6 @@
+2022.08.15:
+* new: .github/workflows: `index.accum-content.yml` workflow script to accumulate content for `index` repository
+
 2022.08.12:
 * new: .github/workflows/index.*.yml: added `index` repository clones/views statistic accumulation
 
