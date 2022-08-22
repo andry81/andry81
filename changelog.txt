@@ -1,3 +1,6 @@
+2022.08.22:
+* changed: .github/releases: templates update
+
 2022.08.15:
 * new: .github/workflows: `index.accum-content.yml` workflow script to accumulate content for `index` repository
 
