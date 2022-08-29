@@ -9,9 +9,14 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     inputs:
+      # for tests
       no_skip_unexpired_entries:
         description: 'Do not skip unexpired entries'
-        required: true
+        required: false
+        default: 'false'
+      no_download_entries:
+        description: 'Do not download entries'
+        required: false
         default: 'false'
 
 jobs:
@@ -58,3 +63,5 @@ jobs:
             CONTINUE_ON_EMPTY_CHANGES=1
             ERROR_ON_EMPTY_CHANGES_WITHOUT_ERRORS=1
             ENABLE_GITHUB_ACTIONS_RUN_URL_PRINT_TO_CHANGELOG=1
+          #  "USE_APT_GET_INSTALL_CMDLINE=-y xmlstarlet"
+          #  "USE_PYTHON3_PIP_INSTALL_CMDLINE=xq"

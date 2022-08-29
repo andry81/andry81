@@ -1,3 +1,8 @@
+2022.08.29:
+* new: .github/workflows/*.yml: added `no_download_entries` workflow dispatch input parameter
+* changed: .github/workflows/*.yml: added `USE_APT_GET_INSTALL_CMDLINE` and `USE_PYTHON3_PIP_INSTALL_CMDLINE` variable usage
+* changed: .github/workflows/*.yml: made all workflow dispatch input parameters optional
+
 2022.08.26:
 * changed: .github/workflows/*.yml: added `ENABLE_GITHUB_ACTIONS_RUN_URL_PRINT_TO_CHANGELOG` variable usage
 
