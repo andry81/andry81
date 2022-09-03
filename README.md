@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://metrics.lecoq.io/about/andry81">
+  <a href="https://ossinsight.io/analyze/andry81">
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/ossinsight--io.svg" valign="middle" alt="ossinsight.io"></a>
+• <a href="https://metrics.lecoq.io/about/andry81">
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/metrics--lecoq--io.svg" valign="middle" alt="metrics.lecoq.io"></a>
 • <a href="https://resume.github.io/?andry81">
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/common/badges/stats/resume--github--io.svg" valign="middle" alt="resume.github.io"></a>
