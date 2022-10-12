@@ -54,9 +54,13 @@ jobs:
             -H 'Cache-Control: no-cache'
             -v
 
+          flags: >-
+            ENABLE_PRINT_INITIAL_ENV_INTO_STDOUT=1
+
           env: >-
             ENABLE_GENERATE_CHANGELOG_FILE=1
             ENABLE_COMMIT_MESSAGE_DATE_WITH_TIME=1
+            ENABLE_COMMIT_MESSAGE_WITH_WORKFLOW_RUN_NUMBER=1
             CHANGELOG_FILE=repo/andry81/svncmd/content-changelog.txt
             ENABLE_YAML_DIFF_PRINT_AFTER_EDIT=1
             ENABLE_YAML_DIFF_PRINT_BEFORE_PATCH=1

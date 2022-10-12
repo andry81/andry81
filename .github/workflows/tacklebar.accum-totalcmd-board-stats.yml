@@ -37,8 +37,12 @@ jobs:
           output_repo_dir:          traffic/board/totalcmd
           output_repo_write_token:  ${{ secrets.READ_STATS_TOKEN }}
 
+          flags: >-
+            ENABLE_PRINT_INITIAL_ENV_INTO_STDOUT=1
+
           env: >-
             ENABLE_GENERATE_CHANGELOG_FILE=1
             ENABLE_PRINT_CURL_RESPONSE_ON_ERROR=1
             ENABLE_COMMIT_MESSAGE_DATE_WITH_TIME=1
+            ENABLE_COMMIT_MESSAGE_WITH_WORKFLOW_RUN_NUMBER=1
             ENABLE_GITHUB_ACTIONS_RUN_URL_PRINT_TO_CHANGELOG=1

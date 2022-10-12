@@ -1,3 +1,7 @@
+2022.10.12:
+* new: .github/workflows/*.yml: added `flags` input parameter usage (`ENABLE_PRINT_INITIAL_ENV_INTO_STDOUT=1`)
+* new: .github/workflows/*.yml: added `ENABLE_COMMIT_MESSAGE_WITH_WORKFLOW_RUN_NUMBER=1` environment variable usage
+
 2022.09.06:
 * changed: .github/workflows/*.yml: workflow scripts moved to standalone repositories
 
