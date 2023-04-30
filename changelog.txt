@@ -1,3 +1,6 @@
+2023.04.30:
+* refactor: .github/releases/README_*.md.in: minor refactor
+
 2023.04.20:
 * fixed: .github/releases/README_github_sourceforge.md.in, README.md: static badges address change
 
