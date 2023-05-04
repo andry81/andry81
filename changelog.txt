@@ -1,3 +1,6 @@
+2023.05.04:
+* changed: .github/releases/README_*.md.in: templates update
+
 2023.04.30:
 * refactor: .github/releases/README_*.md.in: minor refactor
 
