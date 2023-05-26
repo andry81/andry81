@@ -1,3 +1,6 @@
+2023.05.26:
+* changed: .github/workflows/*.yml: removed `ENABLE_COMMIT_REFERENCE_URL_PRINT_TO_CHANGELOG` variable because is not possible to make a commit and in the same time save the commit hash in a being committed file
+
 2023.05.04:
 * changed: .github/releases/README_*.md.in: templates update
 
