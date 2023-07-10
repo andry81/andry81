@@ -1,4 +1,7 @@
 2023.07.10:
+* fixed: README.md: removed inactive profile counter badge
+
+2023.07.10:
 * changed: README.md: activity graph url update
 
 2023.07.03:
