@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-heroku-instance -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/activity-graph-herokuapp.svg" width="600px" valign="middle" alt="Contribution graph" /></a>
+    <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/activity-graph-vercelapp.svg" width="600px" valign="middle" alt="Contribution graph" /></a>
 </p>
 
 ---
