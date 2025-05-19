@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <!--  -->
 <!-- -->
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=andry81" valign="middle" alt="profile views by komarev.com" /></a>
+<!-- - ->
   <a href="https://github.com/gjbae1212/hit-counter">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="profile views by hits.seeyoufarm.com" /></a>
 <!-- - ->
