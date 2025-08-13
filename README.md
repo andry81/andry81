@@ -61,6 +61,11 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
+  <a href="https://stackexchange.com/users/3161001?tab=reputation">
+    <img src="https://stackexchange.com/users/flair/3161001.png" valign="middle" alt="Stack Exchange reputation" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/andry81/stickers/readme-stats/streak-stats-herokuapp.svg" height="135px" valign="middle" alt="Streak stats (DenverCoder1)" /></a><br />
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">

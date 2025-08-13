@@ -1,3 +1,6 @@
+2025.08.13:
+* new: README.md: `stackexchange.com` reputation flair and link
+
 2025.05.19:
 * fixed: README.md: disabled broken `seeyoufarm` counter badge
 
