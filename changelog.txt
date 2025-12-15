@@ -1,3 +1,6 @@
+2025.12.15:
+* new: README.md: another profile views counter badge
+
 2025.08.13:
 * new: README.md: `stackexchange.com` reputation flair and link
 
